@@ -8,3 +8,6 @@ node -v
 sudo apt-get install git
 echo 'If GIT is installed'
 git --version
+git clone https://github.com/Riturajcse/sampleNod.git
+ls
+
