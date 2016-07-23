@@ -1,1 +1,2 @@
-echo 'Hello runShit!'
+echo 'Hello Friend!'
+mkdir Rituraj
